@@ -7,5 +7,4 @@ This file has been submitted by [rdzeldenrust](https://github.com/rdzeldenrust)
 ### Tags 
 Test_RZ
 ### Thumbnail 
-![Screenshot](https://raw.githubusercontent.com/rdzeldenrust/hydra/master/Test_RZ/thumbnail.png)
-# hello-world
+![Screenshot](https://raw.githubusercontent.com/rdzeldenrust/hydra/A10-1/Test_RZ/thumbnail.png)
